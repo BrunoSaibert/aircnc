@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Aircnc" src="https://raw.githubusercontent.com/BrunoSaibert/aircnc/master/src/assets/logo.jpg" width="200px" />
+    <img alt="Aircnc" src="https://github.com/BrunoSaibert/aircnc/blob/master/frontend/src/assets/logo.jpg?raw=true" width="200px" />
 </p>
 
 <h1 align="center">
